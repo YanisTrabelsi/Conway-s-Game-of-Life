@@ -1,6 +1,6 @@
 -- Class --
 local GameConfig = {
-	dimensions = {10, 10}
+	dimensions = {50, 50}
 }
 
 function GameConfig:new()
